@@ -1,0 +1,314 @@
+{
+    "states": [
+      {
+        "id": 1,
+        "name": "Karnataka"
+      },
+      {
+        "id": 2,
+        "name": "Delhi"
+      },
+      {
+        "id": 3,
+        "name": "TamilNadu"
+      },
+      {
+        "id": 4,
+        "name": "Telangana"
+      },
+      {
+        "id": 5,
+        "name": "Maharashtra"
+      },
+      {
+        "id": 6,
+        "name": "WestBengal"
+      },
+      {
+        "id": 7,
+        "name": "Gujarat"
+      },
+      {
+        "id": 8,
+        "name": "Punjab"
+      },
+      {
+        "id": 9,
+        "name": "MadhyaPradesh"
+      },
+      {
+        "id": 10,
+        "name": "Odisha"
+      },
+      {
+        "id": 11,
+        "name": "Haryana"
+      },
+      {
+        "id": 12,
+        "name": "UttarPradesh"
+      },
+      {
+        "id": 13,
+        "name": "Jharkhand"
+      },
+      {
+        "id": 14,
+        "name": "Rajasthan"
+      },
+      {
+        "id": 15,
+        "name": "Kerala"
+      },
+      {
+        "id": 16,
+        "name": "JammuAndKashmir"
+      },
+      {
+        "id": 17,
+        "name": "Bihar"
+      },
+      {
+        "id": 18,
+        "name": "Chhattisgarh"
+      },
+      {
+        "id": 19,
+        "name": "AndhraPradesh"
+      },
+      {
+        "id": 20,
+        "name": "Uttarakhand"
+      }
+      
+
+    ],
+    "cities": {
+      "1": [
+        {
+          "id": 1,
+          "name": "Bangalore"
+        },
+        {
+          "id": 2,
+          "name": "Mysuru"
+        }
+       
+      ],
+      "2": [
+        {
+          "id": 3,
+          "name": "Delhi"
+        }
+      ],
+      "3": [
+        {
+          "id": 4,
+          "name": "Chennai"
+        },
+        {
+          "id": 5,
+          "name": "Salem"
+        }
+        ,
+        {
+          "id": 6,
+          "name": "Madurai"
+        },
+        {
+          "id": 7,
+          "name": "Vijayawada"
+        }
+      ],
+      "4": [
+        {
+          "id": 8,
+          "name": "Hyderabad"
+        }
+      ],
+      "5": [
+        {
+          "id": 9,
+          "name": "Mumbai"
+        },
+        {
+          "id": 10,
+          "name": "Pune"
+        }
+        ,
+        {
+          "id": 11,
+          "name": "Nagpur"
+        },
+        {
+          "id": 12,
+          "name": "Nashik"
+        }
+      ],
+      "6": [
+        {
+          "id": 13,
+          "name": "Kolkata"
+        }
+      ],
+      "7": [
+        {
+          "id": 14,
+          "name": "Ahmedabad"
+        },
+        {
+          "id": 15,
+          "name": "Gandhinagar"
+        }
+        ,
+        {
+          "id": 16,
+          "name": "Junagadh"
+        }
+      ],
+      "8": [
+        {
+          "id": 17,
+          "name": "Amritsar"
+        },
+        {
+          "id": 18,
+          "name": "Bhatinda"
+        }
+      ],
+      "9": [
+        {
+          "id": 19,
+          "name": "Bhopal"
+        }
+      ],
+      "10": [
+        {
+          "id": 20,
+          "name": "Bhubaneswar"
+        },
+        {
+          "id": 21,
+          "name": "Cuttack"
+        }
+       
+      ],
+      "11": [
+        {
+          "id": 22,
+          "name": "Chandigarh"
+        },
+        {
+          "id": 23,
+          "name": "Faridabad"
+        },
+        {
+          "id": 24,
+          "name": "Rohtak"
+        }
+      ],
+      "12": [
+        {
+          "id": 25,
+          "name": "Ghaziabad"
+        },
+        {
+          "id": 26,
+          "name": "Lucknow"
+        },
+        {
+          "id": 27,
+          "name": "Kanpur"
+        },
+        {
+          "id": 28,
+          "name": "Etawah"
+        },
+        {
+          "id": 29,
+          "name": "Meerut"
+        },
+        {
+          "id": 30,
+          "name": "Mathura"
+        },
+        {
+          "id": 31,
+          "name": "Agra"
+        }
+      ],
+      "13": [
+        {
+          "id": 32,
+          "name": "Jamshedpur"
+        }
+      ],
+      "14": [
+        {
+          "id": 33,
+          "name": "Jaipur"
+        },
+        {
+          "id": 34,
+          "name": "Ajmer"
+        },
+        {
+          "id": 35,
+          "name": "Udaipur"
+        },
+        {
+          "id": 36,
+          "name": "Jhansi"
+        }
+      ],
+      "15": [
+        {
+          "id": 37,
+          "name": "Kochi"
+        }
+      ],
+      "16": [
+        {
+          "id": 38,
+          "name": "Patna"
+        },
+        {
+          "id": 39,
+          "name": "Hajipur"
+        }
+      ],
+      "17": [
+        {
+          "id": 40,
+          "name": "Raipur"
+        }
+      ],
+      "18": [
+        {
+          "id": 41,
+          "name": "Visakhapatnam"
+        },
+        {
+          "id": 42,
+          "name": "Vijaywada"
+        },
+        {
+          "id": 43,
+          "name": "Rajamundry"
+        }
+      ],
+      "19": [
+        {
+          "id": 44,
+          "name": "Srinagar"
+        }
+      ],
+      "20": [
+        {
+          "id": 45,
+          "name": "Roorkee"
+        }
+      ]
+      }
+  }
+  
