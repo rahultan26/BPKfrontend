@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BPKfrontend/static/css/main.e20786ec.css",
+    "main.js": "/BPKfrontend/static/js/main.b0ae6f24.js",
+    "static/js/787.763fb143.chunk.js": "/BPKfrontend/static/js/787.763fb143.chunk.js",
+    "index.html": "/BPKfrontend/index.html",
+    "main.e20786ec.css.map": "/BPKfrontend/static/css/main.e20786ec.css.map",
+    "main.b0ae6f24.js.map": "/BPKfrontend/static/js/main.b0ae6f24.js.map",
+    "787.763fb143.chunk.js.map": "/BPKfrontend/static/js/787.763fb143.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e20786ec.css",
+    "static/js/main.b0ae6f24.js"
+  ]
+}
